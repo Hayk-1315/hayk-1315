@@ -14,15 +14,34 @@ I'm currently focused on expanding my impact in the Web3 space, contributing to 
 
 ## 🛠️ Tech Stack
 
-- **Languages**: JavaScript, TypeScript, Solidity
-- **Frontend**: React, Tailwind CSS
-- **Backend**: Node.js, Express
-- **Blockchain**: Ethereum, Ethers.js, Hardhat
+- **Frontend**: JavaScript, TypeScript, React, Tailwind CSS
+- **Backend**: Node.js, Express, Postgres
+- **Blockchain**: Solidity, Ethereum, Ethers.js, Hardhat, Foundry
 - **Tools**: Git, GitHub, Postman, VS Code
 
 ---
 
-## 🚀 Highlight Projects
+## 🚀 Main Project
+
+### 🔹 [STE – Hybrid Spot DEX (Base + Sepolia)](https://github.com/Hayk-1315/STE)
+
+**Live demos:**
+🔗 Live Base Mainnet (read-only): https://ste-web-five.vercel.app
+🔗 Live Sepolia Ethereum (fully operational): https://ste-websepolia.vercel.app
+
+**Overview:**  
+End-to-end hybrid DEX: a trading UI in Next.js/React, a strongly-typed NestJS API with in-memory limit order book backed by PostgreSQL, and on-chain settlement via 0x protocol (quotes, fills, partial fills, multifills, cancels and allowance flow).  
+Includes WebSocket feeds, maker/taker panels, on-chain watchers for fills and cancels, health checks, and metrics wired into Prometheus/Grafana.  
+Built as a near-production architecture: easy to spin up, easy to reason about, and focused on real trading flows rather than toy examples.
+
+**Tech:** 
+TypeScript, Next.js, React, NestJS, PostgreSQL, Prisma, Ethers.js, 0x Protocol, Web3Auth, WebSockets, Docker, Render, Vercel, Prometheus, Grafana.
+
+> Source code is in a private repository – happy to grant read-only access for technical interviews.
+
+---
+
+## Other Highlight Projects
 
 ### 🔹 [ECDSA Wallet](https://github.com/Hayk-1315/ECDSA_Wallet)
 A simulated decentralized wallet built using cryptographic signing (ECDSA).  
@@ -52,19 +71,11 @@ Both projects reflect my ability to:
 
 ---
 
-## 🚧 Future Improvements
-
-- Fully migrate backend to a hosted database (e.g. MongoDB or Firebase)
-- Add user authentication and encryption for localStorage
-- Improve UI responsiveness and accessibility
-
----
-
 ## 📫 Let's Connect!
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/albert-khudaverdyan-656902253)
-- 🌐 [Portfolio Website](http://www.albertkh.com/)
 - 🐱 [GitHub](https://github.com/Hayk-1315)
+- 🌐 [Portfolio Website](http://www.albertkh.com/)
 
 ---
 
