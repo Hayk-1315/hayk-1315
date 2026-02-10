@@ -25,9 +25,9 @@ I'm currently focused on expanding my impact in the Web3 space, contributing to 
 
 ### 🔹 [STE – Hybrid Spot DEX (Base + Sepolia)](https://github.com/Hayk-1315/STE)
 
-**Live demos:**
-🔗 Live Base Mainnet (read-only): https://ste-web-five.vercel.app
-🔗 Live Sepolia Ethereum (fully operational): https://ste-websepolia.vercel.app
+**Live demos:**      
+- 🔗 Live Base Mainnet (read-only): https://ste-web-five.vercel.app        
+- 🔗 Live Sepolia Ethereum (fully operational): https://ste-websepolia.vercel.app
 
 **Overview:**  
 End-to-end hybrid DEX: a trading UI in Next.js/React, a strongly-typed NestJS API with in-memory limit order book backed by PostgreSQL, and on-chain settlement via 0x protocol (quotes, fills, partial fills, multifills, cancels and allowance flow).  
@@ -49,16 +49,16 @@ Includes wallet generation, persistent balances with LowDB, secure transaction s
 
 **Tech:** JavaScript, React, Ethereum-Cryptography, Node.js, Express, LowDB.  
 
-🔗 Live Frontend: https://ecdsa-wallet.vercel.app  
-🔗 Backend API:   https://ecdsa-wallet-backend.onrender.com
+- 🔗 Live Frontend: https://ecdsa-wallet.vercel.app  
+- 🔗 Backend API:   https://ecdsa-wallet-backend.onrender.com
 
 ### 🔹 [Escrow App](https://github.com/Hayk-1315/Escrow-App)
 A smart contract-based escrow service that allows safe transactions between two parties with a third-party arbiter.
 
 **Tech:** JavaScript, Solidity, React, Node.js, Express, LowDB, Ethers.js, Hardhat.
 
-🔗 Live Frontend: https://escrow-app-blue.vercel.app
-🔗 Backend API: https://escrow-backend-nbkb.onrender.com
+- 🔗 Live Frontend: https://escrow-app-blue.vercel.app  
+- 🔗 Backend API: https://escrow-backend-nbkb.onrender.com  
 
 ## 🎯 Educational Value
 
