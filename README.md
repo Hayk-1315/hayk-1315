@@ -21,7 +21,7 @@ I'm currently focused on expanding my impact in the Web3 space, contributing to 
 
 ---
 
-## 🚀 Main Project
+## 🚀 Highlight Project
 
 ### 🔹 [STE – Hybrid Spot DEX (Base + Sepolia)](https://github.com/Hayk-1315/STE)
 
@@ -37,11 +37,9 @@ Built as a near-production architecture: easy to spin up, easy to reason about, 
 **Tech:** 
 TypeScript, Next.js, React, NestJS, PostgreSQL, Prisma, Ethers.js, 0x Protocol, Web3Auth, WebSockets, Docker, Render, Vercel, Prometheus, Grafana.
 
-> Source code is in a private repository – happy to grant read-only access for technical interviews.
-
 ---
 
-## Other Highlight Projects
+## Other Projects
 
 ### 🔹 [ECDSA Wallet](https://github.com/Hayk-1315/ECDSA_Wallet)
 A simulated decentralized wallet built using cryptographic signing (ECDSA).  
