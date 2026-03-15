@@ -6,8 +6,8 @@
 
 ## About Me
 
-I build blockchain applications focused on financial systems and trading infrastructure. My work usually sits at the intersection of smart contracts, backend services and Web3 applications. I've built projects such as a hybrid DEX architecture, escrow systems and staking contracts, experimenting with execution flows, settlement logic and on-chain/off-chain interactions.
-Before moving into Web3 development, I spent nearly a decade working in accounting and treasury. That background gives me a practical perspective on financial flows, reconciliation and operational reliability, concepts that translate surprisingly well into DeFi systems.
+I build blockchain applications focused on financial systems and trading infrastructure. My work usually sits at the intersection of smart contracts, backend services and Web3 applications. I've built projects such as a hybrid DEX architecture, escrow systems and staking contracts, experimenting with execution flows, settlement logic and on-chain/off-chain interactions.  
+Before moving into Web3 development, I spent nearly a decade working in accounting and treasury. That background gives me a practical perspective on financial flows, reconciliation and operational reliability, concepts that translate surprisingly well into DeFi systems.  
 I'm particularly interested in systems where blockchain meets real financial mechanics: trading protocols, settlement layers and DeFi infrastructure.
 
 ---
