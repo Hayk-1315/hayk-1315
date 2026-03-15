@@ -1,29 +1,32 @@
 
-<h1 align="center">Hi there 👋, I'm Albert Khudaverdyan</h1>
-<p align="center">🔐 Smart Contracts & Fullstack dApp Developer | 🌐 Based in Barcelona, Spain</p>
+<h1 align="center">Hi there, I'm Albert Khudaverdyan</h1>
+<p align="center">Web3 Developer building financial & trading systems on Ethereum | Based in Barcelona, Spain</p>
 
 ---
 
-## 🧠 About Me
+## About Me
 
-I'm a Smart Contracts & Fullstack dApp Developer passionate about building secure and efficient smart contracts for real-world blockchain applications. With a strong foundation in Ethereum development and decentralized systems, I enjoy turning complex ideas into clean, well-structured code.
-
-I'm currently focused on expanding my impact in the Web3 space, contributing to projects where I can grow, collaborate, and help shape the decentralized future.
-
----
-
-## 🛠️ Tech Stack
-
-- **Frontend**: JavaScript, TypeScript, React, Tailwind CSS
-- **Backend**: Node.js, Express, Postgres
-- **Blockchain**: Solidity, Ethereum, Ethers.js, Hardhat, Foundry
-- **Tools**: Git, GitHub, Postman, VS Code
+I build blockchain applications focused on financial systems and trading infrastructure. My work usually sits at the intersection of smart contracts, backend services and Web3 applications. I've built projects such as a hybrid DEX architecture, escrow systems and staking contracts, experimenting with execution flows, settlement logic and on-chain/off-chain interactions.
+Before moving into Web3 development, I spent nearly a decade working in accounting and treasury. That background gives me a practical perspective on financial flows, reconciliation and operational reliability, concepts that translate surprisingly well into DeFi systems.
+I'm particularly interested in systems where blockchain meets real financial mechanics: trading protocols, settlement layers and DeFi infrastructure.
 
 ---
 
-## 🚀 Highlight Project
+## Technical Skills
 
-### 🔹 [STE – Hybrid Spot DEX (Base + Sepolia)](https://github.com/Hayk-1315/STE)
+- **Languages**: Solidity, TypeScript, JavaScript
+- **Blockchain**: Ethereum (EVM), 0x Protocol (Exchange Proxy), EIP-712, Seaport, ERC-20/ERC-721/ERC-1155
+- **Smart Contract Tooling**: Foundry, Hardhat
+- **Backend**: Node.js, Express, REST APIs, WebSockets, PostgreSQL
+- **Frontend**: React, Next.js, HTML/CSS
+- **DevOps / Deployment**: Git, CI workflows, Vercel, Render
+- **Cryptography**: hashing algorithms, digital signatures, Merkle trees
+
+---
+
+## Highlight Project
+
+### 🔹 [STE – Hybrid Exchange (Full-Stack 0x DEX)](https://github.com/Hayk-1315/STE)
 
 **Live demos:**      
 - 🔗 Live Base Mainnet (read-only): https://ste-web-five.vercel.app        
@@ -32,9 +35,9 @@ I'm currently focused on expanding my impact in the Web3 space, contributing to 
 **Overview:**  
 End-to-end hybrid DEX: a trading UI in Next.js/React, a strongly-typed NestJS API with in-memory limit order book backed by PostgreSQL, and on-chain settlement via 0x protocol (quotes, fills, partial fills, multifills, cancels and allowance flow).  
 Includes WebSocket feeds, maker/taker panels, on-chain watchers for fills and cancels, health checks, and metrics wired into Prometheus/Grafana.  
-Built as a near-production architecture: easy to spin up, easy to reason about, and focused on real trading flows rather than toy examples.
+Built as a near-production architecture: easy to spin up, easy to reason about, and focused on real trading flows.
 
-**Tech:** 
+**Tech:**    
 TypeScript, Next.js, React, NestJS, PostgreSQL, Prisma, Ethers.js, 0x Protocol, Web3Auth, WebSockets, Docker, Render, Vercel, Prometheus, Grafana.
 
 ---
@@ -58,18 +61,18 @@ A smart contract-based escrow service that allows safe transactions between two 
 - 🔗 Live Frontend: https://escrow-app-blue.vercel.app  
 - 🔗 Backend API: https://escrow-backend-nbkb.onrender.com  
 
-## 🎯 Educational Value
+## Educational Value
 
 Both projects reflect my ability to:
 - Work end-to-end (frontend + backend).
-- Apply **Solidity logic** to real-world problems.
-- Use **digital signature verification (ECDSA)** and cryptographic hashing.
-- Implement **persistent storage** (LowDB) for user wallets and balances.
-- Follow **secure development principles**.
+- Apply Solidity logic to real-world problems.
+- Use digital signature verification (ECDSA) and cryptographic hashing.
+- Implement persistent storage (LowDB) for user wallets and balances.
+- Follow secure development principles.
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/albert-khudaverdyan-656902253)
 - 🐱 [GitHub](https://github.com/Hayk-1315)
@@ -77,6 +80,6 @@ Both projects reflect my ability to:
 
 ---
 
-## 📝 License
+## License
 
 This project is open-source under the [MIT License](LICENSE).
