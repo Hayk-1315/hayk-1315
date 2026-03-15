@@ -61,7 +61,7 @@ A smart contract-based escrow service that allows safe transactions between two 
 - 🔗 Live Frontend: https://escrow-app-blue.vercel.app  
 - 🔗 Backend API: https://escrow-backend-nbkb.onrender.com  
 
-## Educational Value
+**Educational Value**  
 
 Both projects reflect my ability to:
 - Work end-to-end (frontend + backend).
