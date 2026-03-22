@@ -33,16 +33,15 @@ I'm particularly interested in systems where blockchain meets real financial mec
 - 🔗 Live Sepolia Ethereum (fully operational): https://ste-websepolia.vercel.app
 
 **Overview:**  
-End-to-end hybrid DEX: a trading UI in Next.js/React, a strongly-typed NestJS API with in-memory limit order book backed by PostgreSQL, and on-chain settlement via 0x protocol (quotes, fills, partial fills, multifills, cancels and allowance flow).  
-Includes WebSocket feeds, maker/taker panels, on-chain watchers for fills and cancels, health checks, and metrics wired into Prometheus/Grafana.  
-Built as a near-production architecture: easy to spin up, easy to reason about, and focused on real trading flows.
+End-to-end hybrid DEX: a trading UI in Next.js/React, a strongly-typed NestJS API with in-memory limit order book backed by PostgreSQL, and on-chain settlement via 0x protocol (quotes, fills, partial fills, multifills, cancels and allowance flow). Includes WebSocket feeds, maker/taker panels, on-chain watchers for fills and cancels, health checks, and metrics wired into Prometheus/Grafana.                
+This project is a serious prototype of a hybrid DEX architecture, designed to explore order matching, settlement flows and on-chain/off-chain coordination in decentralized trading systems. While not production-ready, it focuses on modeling realistic system behavior and key architectural decisions rather than production hardening.    
 
 **Tech:**    
 TypeScript, Next.js, React, NestJS, PostgreSQL, Prisma, Ethers.js, 0x Protocol, Web3Auth, WebSockets, Docker, Render, Vercel, Prometheus, Grafana.
 
 ---
 
-## Other Projects
+## Selected Technical Projects
 
 ### 🔹 [ECDSA Wallet](https://github.com/Hayk-1315/ECDSA_Wallet)
 A simulated decentralized wallet built using cryptographic signing (ECDSA).  
@@ -61,14 +60,14 @@ A smart contract-based escrow service that allows safe transactions between two 
 - 🔗 Live Frontend: https://escrow-app-blue.vercel.app  
 - 🔗 Backend API: https://escrow-backend-nbkb.onrender.com  
 
-**Educational Value**  
+**Key Takeaways**  
 
-Both projects reflect my ability to:
-- Work end-to-end (frontend + backend).
-- Apply Solidity logic to real-world problems.
-- Use digital signature verification (ECDSA) and cryptographic hashing.
-- Implement persistent storage (LowDB) for user wallets and balances.
-- Follow secure development principles.
+Both projects demonstrate my ability to:
+- Build end-to-end systems (frontend + backend).
+- Apply Solidity-based logic to real-world use cases.
+- Work with cryptographic primitives such as ECDSA signatures and hashing.
+- Implement persistent storage for user data and balances (LowDB).
+- Follow secure development practices.
 
 ---
 
