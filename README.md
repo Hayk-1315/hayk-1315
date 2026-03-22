@@ -33,7 +33,14 @@ I'm particularly interested in systems where blockchain meets real financial mec
 - 🔗 Live Sepolia Ethereum (fully operational): https://ste-websepolia.vercel.app
 
 **Overview:**  
-End-to-end hybrid DEX: a trading UI in Next.js/React, a strongly-typed NestJS API with in-memory limit order book backed by PostgreSQL, and on-chain settlement via 0x protocol (quotes, fills, partial fills, multifills, cancels and allowance flow). Includes WebSocket feeds, maker/taker panels, on-chain watchers for fills and cancels, health checks, and metrics wired into Prometheus/Grafana.                
+- Next.js / React trading UI
+- NestJS API with off-chain order matching and in-memory limit order book
+- PostgreSQL persistence via Prisma
+- On-chain settlement via 0x Exchange Proxy
+- WebSocket streams for order book, trades and orders
+- Event watchers for on-chain fills & cancels reconciliation
+- Prometheus metrics and Grafana dashboard
+
 This project is a serious prototype of a hybrid DEX architecture, designed to explore order matching, settlement flows and on-chain/off-chain coordination in decentralized trading systems. While not production-ready, it focuses on modeling realistic system behavior and key architectural decisions rather than production hardening.    
 
 **Tech:**    
